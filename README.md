@@ -2,31 +2,34 @@
 
 ## Learning Goals
 
-- Learning Goal 1
-- Learning Goal 2
+- Define software development.
 
 ## Introduction
 
-A 1-2 sentence summary of what will be covered.
+A computer can perform millions of calculations in seconds and underpins pretty
+much every system in the modern world. However, computers can’t think for
+themselves. A computer will do exactly what you tell it to do. For example, if
+you try to delete important files from a computer, it won’t stop you!
 
-## Topic 1
+We can instruct the computer what to do using code, i.e., a language that a
+computer can understand. People who can use code to communicate with a computer
+are called programmers. However, simply being able to write instructions doesn’t
+necessarily mean someone can create complex applications.
 
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
+## Software Development
 
-## Topic 2
+Software is used by pretty much every company in the world. Even companies who
+have a non-technical product require some form of software to run their
+business. Modern applications can span millions of lines of code and be
+developed by thousands of people from all over the world!
 
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
+Software development is the process of scoping requirements, designing user
+workflows, deploying it to users, and providing support. In order to build
+modern software, software engineers must know how to work with different
+stakeholders and translate requirements into code that can be run on computers.
 
 ## Conclusion
 
-A short one or two paragraph summary of the contents of the lessons, recapping
-the learning goals.
-
-## Resources
-
-- [Resource Link 1](example.com)
-- [Resource Link 2](example.com)
+We have learned what software development is in this lesson. In the next
+lessons, we will learn some fundamental concepts that are key to modern software
+development.
